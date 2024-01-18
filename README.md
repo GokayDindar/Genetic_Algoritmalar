@@ -1,5 +1,7 @@
 # Genetic_Algoritmalar
 GÖKAY DİNDAR 181180024
+
+
 Genetik Algoritma Yaklaşımı İle Sudoku Çözümü
 A Retrievable Genetic Algorithm for Efficient Solving of Sudoku Puzzles
 Seyed Mehran Kazemi, Bahare Fatemi Makalesi İncelenmiş Sudoku Çözümüne 
