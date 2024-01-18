@@ -138,7 +138,7 @@ if __name__ == "__main__":
  
 
     print("Çözülecek Sudoku")
-    print_sudoku(partial_sudoku_hard)
+    print_sudoku(partial_sudoku1)
     
 
     solution = genetic_algorithm(partial_sudoku1, population_size=50, generations=1000)
